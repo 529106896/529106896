@@ -2,8 +2,6 @@
 
  ![dddd](https://img.shields.io/badge/%E5%8E%9F%E7%A5%9EUID-208141029-green)
 
- ![dddd](https://img.shields.io/badge/%E5%8D%95%E6%8E%A8-%E9%9B%B7%E7%94%B5%E5%B0%86%E5%86%9B-blueviolet)
-
 > 你要好好长大，  
 > 不要输给风，  
 > 不要输给雨，  
