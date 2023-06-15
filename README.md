@@ -14,4 +14,4 @@
 
 ### Status
 
- ![529106896's GitHub stats](https://github-readme-stats.vercel.app/api?username=529106896&show_icons=true&theme=tokyonight)
+ ![529106896's GitHub stats](https://github-readme-stats.zohan.tech/api?username=529106896&show_icons=true&theme=tokyonight)
