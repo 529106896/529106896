@@ -10,7 +10,7 @@
 
  ### 常用语言
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=529106896&layout=compact)
+ ![Top Langs](https://github-readme-stats.zohan.tech/api/top-langs/?username=529106896&layout=compact)
 
 ### Status
 
